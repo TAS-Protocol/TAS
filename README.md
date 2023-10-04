@@ -1,7 +1,6 @@
 # Tableland Attestation Service (TAS)
 
 ---
-## Encode Open Data Hack Project 🚀
 
 <div >
   <img src="./client/public/logo2.jpeg" alt="TAS Logo" style="border-radius: 5%; width: 400px;" />
